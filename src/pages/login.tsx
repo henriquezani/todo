@@ -30,7 +30,7 @@ export const Login = () => {
 
   return (
     <Container>
-      <Button function={signInGoogle} label="LOGIN" />
+      <Button function={signInGoogle} label="LOGIN COM GOOGLE" />
     </Container>
   );
 };
